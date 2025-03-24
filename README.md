@@ -9,7 +9,7 @@ A **Spring Boot** backend project that manages training centers, courses, studen
 - **Payment Handling**: Process course payments.
 - **Exception Handling**: Mix of default & custom exceptions.
 - **DTO Implementation**: Using Data Transfer Objects for better API structure.
-- **Authentication & Authorization** (Coming Soon): Implement JWT-based security.
+- **Authentication & Authorization** Implement JWT-based security.
 
 ## 🛠️ Tech Stack
 - **Backend**: Spring Boot, Java, Spring Data JPA
